@@ -1,4 +1,4 @@
-var bitcore = require('bitcore-lib-dash');
-bitcore.Message = require('./lib/message');
+var orecore = require('orecore-lib');
+orecore.Message = require('./lib/message');
 
-module.exports = bitcore.Message;
+module.exports = orecore.Message;

@@ -1,20 +1,19 @@
 {
-  "name": "bitcore-message-dash",
-  "main": "./bitcore-message.min.js",
+  "name": "orecore-message",
+  "main": "./orecore-message.min.js",
   "version": "1.0.4",
-  "homepage": "https://github.com/dashpay/bitcore-message-dash",
+  "homepage": "https://github.com/GAB5TER/orecore-message",
   "authors": [
     "BitPay"
   ],
-  "description": "Bitcoin Message Verification and Signing for Bitcore",
+  "description": "Galactrum Message Verification and Signing for Orecore",
   "moduleType": [
     "globals"
   ],
   "keywords": [
-    "bitcoin",
-    "bitcore",
-    "btc",
-    "satoshi",
+    "galactrum",
+    "orecore",
+    "ore",
     "message",
     "signing"
   ],
