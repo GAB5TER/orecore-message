@@ -1,17 +1,13 @@
-# Galactrum Message Verification and Signing for Orecore
+# Galactrum Message Verification and Signing for orecore-lib
 
 orecore-message adds support for verifying and signing galactrum messages in [Node.js](http://nodejs.org/) and web browsers.
 
-See [the main orecore repo](https://github.com/GAB5TER/orecore) for more information.
+See [the main orecore repo](https://github.com/GAB5TER/orecore-lib) for more information.
 
-## Getting Started
+## Install
 
 ```sh
 npm install orecore-message
-```
-
-```sh
-bower install orecore-message
 ```
 
 To sign a message:
@@ -34,11 +30,10 @@ var verified = Message('hello, world').verify(address, signature);
 
 ## Contributing
 
-See [CONTRIBUTING.md](https://github.com/GAB5TER/orecore/blob/master/CONTRIBUTING.md) on the main orecore repo for information about how to contribute.
+Feel free to dive in! [Open an issue](https://github.com/GAB5TER/orecore-message/issues/new) or submit PRs.
+
+Please see [CONTRIBUTING.md](https://github.com/galactrum/galactrum/blob/master/CONTRIBUTING.md) on the Galactrum repo for information about how to contribute.
 
 ## License
 
-Code released under [the MIT license](https://github.com/GAB5TER/orecore/blob/master/LICENSE).
-
-Copyright 2013-2015 BitPay, Inc. Bitcore is a trademark maintained by BitPay, Inc.
-
+Code released under [the MIT license](LICENSE).
