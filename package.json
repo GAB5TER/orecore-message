@@ -35,7 +35,7 @@
     "eslint-plugin-import": "^2.16.0",
     "mocha": "^5.2.0",
     "node-loader": "^0.6.0",
-    "nyc": "^13.1.0",
+    "nyc": "^14.1.1",
     "uglify-js-es6": "^2.8.9",
     "uglifyes-webpack-plugin": "^0.4.3",
     "webpack": "^4.29.0",
